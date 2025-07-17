@@ -88,3 +88,6 @@
 - [xmpp](https://simpleicons.org/?q=xmpp)
 - [ycombinator](https://simpleicons.org/?q=ycombinator)
 - [youtube](https://simpleicons.org/?q=youtube)
+- [bluesky](https://simpleicons.org/?q=bluesky)
+- [intigr](https://simpleicons.org/?q=intigr)
+- [ywh](https://simpleicons.org/?q=ywh)
